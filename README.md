@@ -29,3 +29,6 @@ Repository for HackBeanpot x NUWiCyS January 2023 Hackathon.
 3. Once decided on your project, get installation and running the script working
 4. Follow the guided milestones and ask questions when you are confused
 5. Learn and have fun!
+
+### Resources
+Introduction to Python Presentation Link: https://docs.google.com/presentation/d/1lztOhFXEo4sPQA4ehEDiNZNMPo0a1L42qB1vgV7ZntE/edit?usp=sharing
